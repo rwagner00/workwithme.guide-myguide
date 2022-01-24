@@ -6,7 +6,7 @@ full_name: Joseph Ryan Wagner
 # Set this to the Github URL for links to work correctly
 # github_url: https://github.com/rwagner00/workwithme.guide-myguide/
 # To add a custom profile picture, add your profile picture to this directory, update, and uncomment the relative link below.
-# picture: ./profile.jpg
+picture: ./profile.jpg
 # To add your name to the front page list, uncomment below
 # categories: [profile]
 
@@ -21,7 +21,7 @@ full_name: Joseph Ryan Wagner
 
 ## Personality
 
-Unless I'm excited about something, I'm fairly relaxed and easygoing. I do my absolute best to be a methodical and conscientious person, and will always choose to laugh rather than cry if at all possible. 
+Unless I'm excited about something, I'm fairly relaxed and easygoing. I do my absolute best to be a methodical and conscientious person, and will always choose to laugh rather than cry if at all possible. My very favorite question is "Why?", and the quickest way to throw wrenches into my mental gears is to answer "Because.". Context is important, and whenever I'm lost (figuratively or literally), it's the first thing I look for.
 
 ## Receiving Feedback & Recognition
 
