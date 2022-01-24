@@ -1,7 +1,7 @@
 ---
 layout: profile
 # Set both of these to your name
-title: Joseph Wagner
+title: Ryan Wagner
 full_name: Joseph Ryan Wagner
 # Set this to the Github URL for links to work correctly
 # github_url: https://github.com/rwagner00/workwithme.guide-myguide/
